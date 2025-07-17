@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README_with_doctor_module.md</title>
+
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -15,13 +15,7 @@
 <ul>
 <li><a href="#🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</a>
 <ul>
-<li><a href="#🔧-tech-stack">🔧 Tech Stack</a></li>
-<li><a href="#🩺-doctor-module">🩺 Doctor Module</a></li>
-<li><a href="#🚀-getting-started">🚀 Getting Started</a></li>
-<li><a href="#📦-build-for-production">📦 Build for Production</a></li>
-<li><a href="#📁-project-structure">📁 Project Structure</a></li>
-<li><a href="#✅-linting">✅ Linting</a></li>
-<li><a href="#🧪-future-features-optional-ideas">🧪 Future Features (Optional Ideas)</a></li>
+
 </ul>
 </li>
 </ul>
