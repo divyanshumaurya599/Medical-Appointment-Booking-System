@@ -12,16 +12,7 @@
   <div class="stackedit__left">
     <div class="stackedit__toc">
       
-<ul>
-<li><a href="#🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</a>
-<ul>
 
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</h1>
