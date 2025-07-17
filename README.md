@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <title>README_with_doctor_module.md</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -12,7 +12,22 @@
   <div class="stackedit__left">
     <div class="stackedit__toc">
       
+<ul>
+<li><a href="#🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</a>
+<ul>
+<li><a href="#🔧-tech-stack">🔧 Tech Stack</a></li>
+<li><a href="#🩺-doctor-module">🩺 Doctor Module</a></li>
+<li><a href="#🚀-getting-started">🚀 Getting Started</a></li>
+<li><a href="#📦-build-for-production">📦 Build for Production</a></li>
+<li><a href="#📁-project-structure">📁 Project Structure</a></li>
+<li><a href="#✅-linting">✅ Linting</a></li>
+<li><a href="#🧪-future-features-optional-ideas">🧪 Future Features (Optional Ideas)</a></li>
+</ul>
+</li>
+</ul>
 
+    </div>
+  </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</h1>
@@ -23,10 +38,11 @@ The project aims to enhance efficiency in healthcare by providing a seamless, di
 <h2 id="🔧-tech-stack">🔧 Tech Stack</h2>
 <h3 id="frontend">Frontend</h3>
 <ul>
-<li><strong>React 18</strong> — Component-based UI</li>
-<li><strong>TypeScript</strong> — Strongly typed JavaScript</li>
-<li><strong>Tailwind CSS</strong> — Utility-first CSS framework</li>
-<li><strong>React Router v6</strong> — For client-side routing</li>
+<li><strong>HTML</strong></li>
+<li><strong>JavaScript</strong></li>
+<li><strong>TypeScript</strong></li>
+<li><strong>Tailwind CSS</strong></li>
+<li><strong>React Router v6</strong></li>
 </ul>
 <h3 id="tools--libraries">Tools &amp; Libraries</h3>
 <ul>
