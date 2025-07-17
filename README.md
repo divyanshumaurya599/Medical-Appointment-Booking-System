@@ -13,8 +13,7 @@
       
 
 
-    </div>
-  </div>
+    
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="🏥-medical-appointment-booking-system--">🏥 Medical Appointment Booking System -</h1>
